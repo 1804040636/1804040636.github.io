@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">邶风&#39;s blog</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2022-12-08T04:12:59&#43;08:00</updated>
+    <updated>2022-12-08T04:26:24&#43;08:00</updated>
     <id>https://1804040636.github.io/</id>
     <link rel="alternate" type="text/html" href="https://1804040636.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://1804040636.github.io/atom.xml" />
@@ -16,4 +16,35 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.108.0">Hugo</generator>
+        <entry>
+            <title type="text">Hello World</title>
+            <link rel="alternate" type="text/html" href="https://1804040636.github.io/posts/hello-world/" />
+            <id>https://1804040636.github.io/posts/hello-world/</id>
+            <updated>2022-12-08T04:26:05&#43;08:00</updated>
+            <published>2022-12-08T03:59:37&#43;08:00</published>
+            <author>
+                    <name>reuixiy</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>reuixiy@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
+            
+                <content type="html"></content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
 </feed>

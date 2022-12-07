@@ -23,10 +23,38 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Thu, 08 Dec 2022 04:12:59 &#43;0800</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 04:26:24 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://1804040636.github.io/rss.xml" />
         
+        
+            <item>
+                <title>Hello World</title>
+                <link>https://1804040636.github.io/posts/hello-world/</link>
+                <guid isPermaLink="true">https://1804040636.github.io/posts/hello-world/</guid>
+                <pubDate>Thu, 08 Dec 2022 03:59:37 &#43;0800</pubDate>
+                
+                    <author>reuixiy@gmail.com (reuixiy)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
         
     </channel>
 </rss>
