@@ -2,20 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://1804040636.github.io/posts/java-pro/</loc>
-    <lastmod>2022-12-08T04:38:39+08:00</lastmod>
+    <loc>https://1804040636.github.io/categories/</loc>
+    <lastmod>2022-12-08T06:05:47+08:00</lastmod>
+  </url><url>
+    <loc>https://1804040636.github.io/tags/java/</loc>
+    <lastmod>2022-12-08T06:05:47+08:00</lastmod>
+  </url><url>
+    <loc>https://1804040636.github.io/categories/java/</loc>
+    <lastmod>2022-12-08T06:05:47+08:00</lastmod>
+  </url><url>
+    <loc>https://1804040636.github.io/posts/java/</loc>
+    <lastmod>2022-12-08T06:05:35+08:00</lastmod>
   </url><url>
     <loc>https://1804040636.github.io/posts/</loc>
-    <lastmod>2022-12-08T04:38:39+08:00</lastmod>
+    <lastmod>2022-12-08T06:05:47+08:00</lastmod>
+  </url><url>
+    <loc>https://1804040636.github.io/tags/</loc>
+    <lastmod>2022-12-08T06:05:47+08:00</lastmod>
+  </url><url>
+    <loc>https://1804040636.github.io/tags/%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B/</loc>
+    <lastmod>2022-12-08T06:05:47+08:00</lastmod>
+  </url><url>
+    <loc>https://1804040636.github.io/categories/%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B/</loc>
+    <lastmod>2022-12-08T06:05:47+08:00</lastmod>
   </url><url>
     <loc>https://1804040636.github.io/</loc>
-    <lastmod>2022-12-08T04:38:39+08:00</lastmod>
+    <lastmod>2022-12-08T06:05:47+08:00</lastmod>
+  </url><url>
+    <loc>https://1804040636.github.io/posts/java-pro/</loc>
+    <lastmod>2022-12-08T06:05:47+08:00</lastmod>
   </url><url>
     <loc>https://1804040636.github.io/about/</loc>
     <lastmod>2022-12-08T04:26:13+08:00</lastmod>
-  </url><url>
-    <loc>https://1804040636.github.io/categories/</loc>
-  </url><url>
-    <loc>https://1804040636.github.io/tags/</loc>
   </url>
 </urlset>
