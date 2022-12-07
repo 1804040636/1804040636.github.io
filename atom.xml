@@ -2,15 +2,15 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-    <title type="text">Hugo Theme MemE</title>
+    <title type="text">邶风&#39;s blog</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2022-12-08T05:12:45&#43;08:00</updated>
-    <id>https://example.com/</id>
-    <link rel="alternate" type="text/html" href="https://example.com/" />
-    <link rel="self" type="application/atom&#43;xml" href="https://example.com/atom.xml" />
+    <updated>2022-12-08T05:16:08&#43;08:00</updated>
+    <id>https://1804040636.github.io/</id>
+    <link rel="alternate" type="text/html" href="https://1804040636.github.io/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://1804040636.github.io/atom.xml" />
     <author>
             <name>reuixiy</name>
-            <uri>https://example.com/</uri>
+            <uri>https://1804040636.github.io</uri>
             
                 <email>reuixiy@gmail.com</email>
             </author>
@@ -18,8 +18,8 @@
     <generator uri="https://gohugo.io/" version="0.108.0">Hugo</generator>
         <entry>
             <title type="text">Java Pro</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/java-pro/" />
-            <id>https://example.com/posts/java-pro/</id>
+            <link rel="alternate" type="text/html" href="https://1804040636.github.io/posts/java-pro/" />
+            <id>https://1804040636.github.io/posts/java-pro/</id>
             <updated>2022-12-08T04:38:39&#43;08:00</updated>
             <published>2022-12-08T04:35:47&#43;08:00</published>
             <author>
@@ -38,7 +38,7 @@
 &lt;h2 id=&#34;更高速的输入输出&#34;&gt;更高速的输入输出&lt;/h2&gt;
 &lt;p&gt;&lt;code&gt;Scanner&lt;/code&gt; 和 &lt;code&gt;System.out.print&lt;/code&gt; 在最开始会工作得很好，但是在处理更大的输入的时候会降低效率，因此我们会需要使用一些方法来提高 IO 速度。&lt;/p&gt;
 &lt;h3 id=&#34;使用-kattio--stringtokenizer-作为输入&#34;&gt;使用 Kattio + StringTokenizer 作为输入&lt;/h3&gt;
-&lt;p&gt;最常用的方法之一是使用来自 Kattis 的 &lt;a href=&#34;https://github.com/Kattis/kattio/blob/master/Kattio.java&#34;&gt;Kattio.java&lt;/a&gt; 来提高 IO 效率。&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;https://example.com/posts/java-pro/#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;这个方法会将 &lt;code&gt;StringTokenizer&lt;/code&gt; 与 &lt;code&gt;PrintWriter&lt;/code&gt; 包装在一个类中方便使用。而在具体进行解题的时候（假如赛会/组织方允许）可以直接使用这个模板。&lt;/p&gt;
+&lt;p&gt;最常用的方法之一是使用来自 Kattis 的 &lt;a href=&#34;https://github.com/Kattis/kattio/blob/master/Kattio.java&#34;&gt;Kattio.java&lt;/a&gt; 来提高 IO 效率。&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;https://1804040636.github.io/posts/java-pro/#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;这个方法会将 &lt;code&gt;StringTokenizer&lt;/code&gt; 与 &lt;code&gt;PrintWriter&lt;/code&gt; 包装在一个类中方便使用。而在具体进行解题的时候（假如赛会/组织方允许）可以直接使用这个模板。&lt;/p&gt;
 &lt;p&gt;下方即为应包含在代码中的 IO 模板，由于 Kattis 的原 Kattio 包含一些并不常用的功能，下方的模板经过了一些调整（原 Kattio 使用 MIT 作为协议）。&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -2513,7 +2513,7 @@
 &lt;hr&gt;
 &lt;ol&gt;
 &lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;&lt;a href=&#34;https://usaco.guide/general/input-output?lang=java#method-3---io-template&#34;&gt;Input &amp;amp; Output - USACO Guide&lt;/a&gt;&amp;#160;&lt;a href=&#34;https://example.com/posts/java-pro/#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://usaco.guide/general/input-output?lang=java#method-3---io-template&#34;&gt;Input &amp;amp; Output - USACO Guide&lt;/a&gt;&amp;#160;&lt;a href=&#34;https://1804040636.github.io/posts/java-pro/#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
