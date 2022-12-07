@@ -4,15 +4,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">邶风&#39;s blog</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2022-12-08T06:15:04&#43;08:00</updated>
+    <updated>2022-12-08T06:45:07&#43;08:00</updated>
     <id>https://1804040636.github.io/</id>
     <link rel="alternate" type="text/html" href="https://1804040636.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://1804040636.github.io/atom.xml" />
     <author>
-            <name>reuixiy</name>
+            <name>邶风</name>
             <uri>https://1804040636.github.io</uri>
             
-                <email>reuixiy@gmail.com</email>
+                <email>3483539135@qq.com</email>
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.108.0">Hugo</generator>
@@ -23,9 +23,9 @@
             <updated>2022-12-08T06:05:35&#43;08:00</updated>
             <published>2022-12-08T06:03:45&#43;08:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>邶风</name>
+                    <uri>https://1804040636.github.io/</uri>
+                    <email>3483539135@qq.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">关于 Java Java 是一种广泛使用的计算机编程语言，拥有 跨平台、面向对象、泛型编程 的特性，广泛应用于企业级 Web 应用开发和移动应用开发。
 环境安装 Windows 可以在 Oracle 官网 下载 Oracle JDK（需要登录 Oracle 账号）。推荐下载 EXE 安装包来自动配置环境变量。
@@ -672,9 +672,9 @@ Linux 使用包管理器安装 可以使用包管理器提供的 JDK。
             <updated>2022-12-08T06:05:47&#43;08:00</updated>
             <published>2022-12-08T04:35:47&#43;08:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>邶风</name>
+                    <uri>https://1804040636.github.io/</uri>
+                    <email>3483539135@qq.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Java 进阶 ???+ warning &amp;ldquo;注意&amp;rdquo; 以下内容均基于 Java JDK 8 版本编写，不排除在更高版本中有部分改动的可能性。
 更高速的输入输出 Scanner 和 System.out.print 在最开始会工作得很好，但是在处理更大的输入的时候会降低效率，因此我们会需要使用一些方法来提高 IO 速度。
