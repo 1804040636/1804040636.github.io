@@ -2,25 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://1804040636.github.io/posts/java-pro/</loc>
+    <loc>https://example.com/</loc>
     <lastmod>2022-12-08T04:38:39+08:00</lastmod>
   </url><url>
-    <loc>https://1804040636.github.io/posts/</loc>
+    <loc>https://example.com/posts/java-pro/</loc>
     <lastmod>2022-12-08T04:38:39+08:00</lastmod>
   </url><url>
-    <loc>https://1804040636.github.io/</loc>
+    <loc>https://example.com/posts/</loc>
     <lastmod>2022-12-08T04:38:39+08:00</lastmod>
   </url><url>
-    <loc>https://1804040636.github.io/about/</loc>
+    <loc>https://example.com/about/</loc>
     <lastmod>2022-12-08T04:26:13+08:00</lastmod>
   </url><url>
-    <loc>https://1804040636.github.io/posts/hello-world/</loc>
-    <lastmod>2022-12-08T04:26:05+08:00</lastmod>
+    <loc>https://example.com/categories/</loc>
   </url><url>
-    <loc>https://1804040636.github.io/categories/</loc>
-  </url><url>
-    <loc>https://1804040636.github.io/posts/</loc>
-  </url><url>
-    <loc>https://1804040636.github.io/tags/</loc>
+    <loc>https://example.com/tags/</loc>
   </url>
 </urlset>
