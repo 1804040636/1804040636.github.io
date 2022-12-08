@@ -3,7 +3,7 @@
     "short_name": "MemE",
     "icons": [
         {
-            "src": "./icons/android-chrome-512x512.png",
+            "src": "./icons/beifeng.jpg,
             "sizes": "512x512",
             "type": "image/png"
         }

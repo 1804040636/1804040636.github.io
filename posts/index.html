@@ -21,7 +21,7 @@
 
     
     
-        <script src="https://cdn.jsdelivr.net/npm/lunr@2.3.9/lunr.min.js" defer></script><script src="/js/meme.min.fc809fffaa543135a6bfdd43e4180d4873c68c487f45bdeca252054177da0d94.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/lunr@2.3.9/lunr.min.js" defer></script><script src="/js/meme.min.860735ba0f3e3e2d52f1ddb86db8e7aa799ff6892cfe9da49d29a3034e02af77.js"></script>
 
     
 
@@ -57,7 +57,7 @@
         "@context": "https://schema.org",
         "@type": "WebPage",
         "datePublished": "2022-12-08T03:17:43+00:00",
-        "dateModified": "2022-12-08T06:05:47+08:00",
+        "dateModified": "2022-12-08T20:36:04+08:00",
         "url": "https://1804040636.github.io/posts/",
         "name": "Posts",
         "description": "MemE is a powerful and highly customizable GoHugo theme for personal blogs.",
@@ -226,6 +226,10 @@
                                     
                                 
                             
+                                
+                                    
+                                
+                            
                         
                     
 
@@ -258,6 +262,11 @@
                                 
                                 <h3 class="list-month">December</h3>
                                 <ul class="list-part">
+        
+            <li class="list-item">
+                <a href="/posts/heal/" class="list-item-title">治疗及预防新冠</a>
+                <time datetime="2022-12-08T20:30:36&#43;08:00" class="list-item-time">December 8</time>
+            </li>
         
             <li class="list-item">
                 <a href="/posts/java/" class="list-item-title">Java入门</a>
@@ -318,9 +327,95 @@
         
 
         
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.13.0/dist/katex.min.css">
+<script>
+    if (typeof renderMathInElement === 'undefined') {
+        const getScript = (options) => {
+            const script = document.createElement('script');
+            script.defer = true;
+            script.crossOrigin = 'anonymous';
+            Object.keys(options).forEach((key) => {
+                script[key] = options[key];
+            });
+            document.body.appendChild(script);
+        };
+        getScript({
+            src: 'https:\/\/cdn.jsdelivr.net\/npm\/katex@0.13.0\/dist\/katex.min.js',
+            onload: () => {
+                getScript({
+                    src: 'https:\/\/cdn.jsdelivr.net\/npm\/katex@0.13.0\/dist\/contrib\/mhchem.min.js',
+                    onload: () => {
+                        getScript({
+                            src: 'https:\/\/cdn.jsdelivr.net\/npm\/katex@0.13.0\/dist\/contrib\/auto-render.min.js',
+                            onload: () => {
+                                renderKaTex();
+                            }
+                        });
+                    }
+                });
+            }
+        });
+    } else {
+        renderKaTex();
+    }
+    function renderKaTex() {
+        renderMathInElement(
+            document.body,
+            {
+                delimiters: [
+                    {left: "$$", right: "$$", display: true},
+                    {left: "\\[", right: "\\]", display: true},
+                    {left: "$", right: "$", display: false},
+                    {left: "\\(", right: "\\)", display: false}
+                ]
+            }
+        );
+    }
+</script>
 
 
 
+
+    <script>
+    if (typeof MathJax === 'undefined') {
+        window.MathJax = {
+            loader: {
+                load: ['[tex]/mhchem']
+            },
+            
+            tex: {
+                inlineMath: {'[+]': [['$', '$']]},
+                tags: 'ams',
+                packages: {'[+]': ['mhchem']}
+            }
+        };
+        (function() {
+            const script = document.createElement('script');
+            script.src = 'https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3.1.2\/es5\/tex-mml-chtml.js';
+            script.defer = true;
+            document.head.appendChild(script);
+        })();
+    } else {
+        MathJax.texReset();
+        MathJax.typeset();
+    }
+</script>
+
+
+
+
+    <script src="https://cdn.jsdelivr.net/npm/mermaid@8.8.3/dist/mermaid.min.js"></script>
+<script>
+    const mermaidConfig = {
+        startOnLoad: true,
+        flowchart: {
+            useMaxWidth: false,
+            htmlLabels: true
+        },
+        theme: 'default'
+    };
+    mermaid.initialize(mermaidConfig);
+</script>
 
 
 

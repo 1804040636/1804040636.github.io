@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">邶风&#39;s blog</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2022-12-08T06:45:07&#43;08:00</updated>
+    <updated>2022-12-08T20:48:30&#43;08:00</updated>
     <id>https://1804040636.github.io/</id>
     <link rel="alternate" type="text/html" href="https://1804040636.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://1804040636.github.io/atom.xml" />
@@ -16,6 +16,75 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.108.0">Hugo</generator>
+        <entry>
+            <title type="text">治疗及预防新冠</title>
+            <link rel="alternate" type="text/html" href="https://1804040636.github.io/posts/heal/" />
+            <id>https://1804040636.github.io/posts/heal/</id>
+            <updated>2022-12-08T20:36:04&#43;08:00</updated>
+            <published>2022-12-08T20:30:36&#43;08:00</published>
+            <author>
+                    <name>邶风</name>
+                    <uri>https://1804040636.github.io/</uri>
+                    <email>3483539135@qq.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">阳性自愈过程 周期：2022.10.10（确认阳）→ 2022.10.16（自测转阴）→ 2022.10.19（确认阴）
+每日基础：维C片 + 连花清瘟 × 2颗 + 喉糖
+发烧：每天二顿小柴胡（睡前喝）+ 扑热息痛（不高于38°C不吃）
+咳嗽：每天2次糖浆 + 喉糖
+非药类：梨子炖水/烤箱烤橘子
+​	大量温开水
+注：维C片一天一片别吃太多
+​	连花清瘟有点凉性，胃寒就早晚吃一次，没有3次
+日常生活 出门带口罩 出门手不碰眼睛 上厕所前后消毒双手 回家时手机眼镜消毒 外采物品应该消毒处理 补充维生素，常饮水 </summary>
+            
+                <content type="html">&lt;h1 id=&#34;阳性自愈过程&#34;&gt;阳性自愈过程&lt;/h1&gt;
+&lt;p&gt;周期：2022.10.10（确认阳）→ 2022.10.16（自测转阴）→ 2022.10.19（确认阴）&lt;/p&gt;
+&lt;p&gt;每日基础：维C片 + 连花清瘟 × 2颗 + 喉糖&lt;/p&gt;
+&lt;p&gt;发烧：每天二顿小柴胡（睡前喝）+ 扑热息痛（不高于38°C不吃）&lt;/p&gt;
+&lt;p&gt;咳嗽：每天2次糖浆 + 喉糖&lt;/p&gt;
+&lt;p&gt;非药类：梨子炖水/烤箱烤橘子&lt;/p&gt;
+&lt;p&gt;​				大量温开水&lt;/p&gt;
+&lt;p&gt;注：维C片一天一片别吃太多&lt;/p&gt;
+&lt;p&gt;​		连花清瘟有点凉性，胃寒就早晚吃一次，没有3次&lt;/p&gt;
+&lt;h1 id=&#34;日常生活&#34;&gt;日常生活&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;出门带口罩&lt;/li&gt;
+&lt;li&gt;出门手不碰眼睛&lt;/li&gt;
+&lt;li&gt;上厕所前后消毒双手&lt;/li&gt;
+&lt;li&gt;回家时手机眼镜消毒&lt;/li&gt;
+&lt;li&gt;外采物品应该消毒处理&lt;/li&gt;
+&lt;li&gt;补充维生素，常饮水&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://1804040636.github.io/categories/%E6%96%B0%E5%86%A0/" term="新冠" label="新冠" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://1804040636.github.io/tags/%E6%96%B0%E5%86%A0/" term="新冠" label="新冠" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">Java入门</title>
             <link rel="alternate" type="text/html" href="https://1804040636.github.io/posts/java/" />
