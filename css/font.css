@@ -1,0 +1,6 @@
+@font-face {
+    /*字体名称，名字可以随便起，但是注意要一致，建议英文*/
+    font-family: 'SJLRT';
+    font-display: swap;
+    src: url('/plugin/SanJiLuRongTi-2.ttf') format("truetype");
+  }

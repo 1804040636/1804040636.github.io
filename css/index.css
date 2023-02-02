@@ -1383,7 +1383,7 @@ body {
   background: var(--global-bg);
   color: var(--font-color);
   font-size: var(--global-font-size);
-  font-family: BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Lato, Roboto, "PingFang SC", "Microsoft JhengHei", "Microsoft YaHei", sans-serif;
+  font-family: SJLRT;
   line-height: 2;
   -webkit-tap-highlight-color: rgba(0,0,0,0);
 }
