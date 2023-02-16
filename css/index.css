@@ -2688,14 +2688,6 @@ figure.highlight pre .javascript .function {
   content: "」";
   font-size: 20px;
 }
-.recent-posts .recent-post-item .recent-post-content .recent-post-arrow {
-  display: block;
-  background: var(--text-bg-hover);
-  position: absolute;
-  height: 10px;
-  width: 20px;
-  clip-path: polygon(0 0, 100% 0, 50% 100%);
-}
 @media screen and (min-width: 1069px) {
   .recent-posts .recent-post-item {
     width: 32.3%;
