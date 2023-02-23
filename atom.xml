@@ -6,7 +6,7 @@
   <link href="http://shallowdream.site/atom.xml" rel="self"/>
   
   <link href="http://shallowdream.site/"/>
-  <updated>2023-02-23T16:35:51.644Z</updated>
+  <updated>2023-02-23T17:48:54.445Z</updated>
   <id>http://shallowdream.site/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://shallowdream.site/2023/02/23/%E5%90%AC%E5%88%B0%E7%9A%84%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
     <id>http://shallowdream.site/2023/02/23/%E5%90%AC%E5%88%B0%E7%9A%84%E5%B0%8F%E6%8A%80%E5%B7%A7/</id>
     <published>2023-02-23T15:57:31.000Z</published>
-    <updated>2023-02-23T16:35:51.644Z</updated>
+    <updated>2023-02-23T17:48:54.445Z</updated>
     
     <content type="html"><![CDATA[<p>本篇文章是记录看到的奇怪的问题的解决方式</p><details class="toggle" style="border: 1px solid #FF7242"><summary class="toggle-button" style="background-color: #FF7242;color: #FFF">如何识别模拟器+图像识别的游戏脚本</summary><div class="toggle-content"><p>屏幕输入特征+离线机器学习</p></div></details><details class="toggle" style="border: 1px solid #32CD99"><summary class="toggle-button" style="background-color: #32CD99;color: #FFF">使用sql查询数据是否存在的方法</summary><div class="toggle-content"><figure class="highlight sql"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">select</span> <span class="number">1</span> <span class="keyword">from</span> tables <span class="keyword">where</span> a<span class="operator">=</span><span class="string">&#x27;a&#x27;</span> <span class="keyword">and</span> b<span class="operator">=</span><span class="string">&#x27;b&#x27;</span> limit <span class="number">0</span>,<span class="number">1</span>;</span><br></pre></td></tr></table></figure></div></details>]]></content>
     
@@ -198,9 +198,9 @@
     
     <category term="操作系统" scheme="http://shallowdream.site/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
     
-    <category term="Java" scheme="http://shallowdream.site/tags/Java/"/>
-    
     <category term="课程设计" scheme="http://shallowdream.site/tags/%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1/"/>
+    
+    <category term="Java" scheme="http://shallowdream.site/tags/Java/"/>
     
   </entry>
   
