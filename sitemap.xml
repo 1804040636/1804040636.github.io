@@ -191,6 +191,13 @@
 
   
   <url>
+    <loc>http://shallowdream.site/tags/%E5%A5%87%E7%89%B9%E6%8A%80%E5%B7%A7/</loc>
+    <lastmod>2023-03-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://shallowdream.site/tags/Java/</loc>
     <lastmod>2023-03-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -199,13 +206,6 @@
   
   <url>
     <loc>http://shallowdream.site/tags/ACM/</loc>
-    <lastmod>2023-03-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://shallowdream.site/tags/%E5%A5%87%E7%89%B9%E6%8A%80%E5%B7%A7/</loc>
     <lastmod>2023-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -226,7 +226,7 @@
   </url>
   
   <url>
-    <loc>http://shallowdream.site/tags/C/</loc>
+    <loc>http://shallowdream.site/tags/%E5%A4%A7%E5%AD%A6%E4%BD%9C%E4%B8%9A/</loc>
     <lastmod>2023-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -240,14 +240,14 @@
   </url>
   
   <url>
-    <loc>http://shallowdream.site/tags/%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1/</loc>
+    <loc>http://shallowdream.site/tags/C/</loc>
     <lastmod>2023-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://shallowdream.site/tags/%E5%A4%A7%E5%AD%A6%E4%BD%9C%E4%B8%9A/</loc>
+    <loc>http://shallowdream.site/tags/%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1/</loc>
     <lastmod>2023-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -256,14 +256,14 @@
 
   
   <url>
-    <loc>http://shallowdream.site/categories/ACM/</loc>
+    <loc>http://shallowdream.site/categories/%E5%A5%87%E7%89%B9%E6%8A%80%E5%B7%A7/</loc>
     <lastmod>2023-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://shallowdream.site/categories/%E5%A5%87%E7%89%B9%E6%8A%80%E5%B7%A7/</loc>
+    <loc>http://shallowdream.site/categories/ACM/</loc>
     <lastmod>2023-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -277,14 +277,14 @@
   </url>
   
   <url>
-    <loc>http://shallowdream.site/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc>
+    <loc>http://shallowdream.site/categories/%E5%A4%A7%E5%AD%A6%E4%BD%9C%E4%B8%9A/</loc>
     <lastmod>2023-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://shallowdream.site/categories/%E5%A4%A7%E5%AD%A6%E4%BD%9C%E4%B8%9A/</loc>
+    <loc>http://shallowdream.site/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc>
     <lastmod>2023-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

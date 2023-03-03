@@ -43,6 +43,7 @@
 }
 [data-theme="dark"] #aside-content > .card-widget.card-info {
   background-image: url(https://sourcebucket.s3.ladydaily.com/img/aurora.webp);
+  /* background-image: url(https://sourcebucket.s3.ladydaily.com/img/snowflower.webp); */
   background-repeat: no-repeat;
   background-attachment: inherit;
   background-size: 100%;
