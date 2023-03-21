@@ -6,7 +6,7 @@
   <link href="http://shallowdream.site/atom.xml" rel="self"/>
   
   <link href="http://shallowdream.site/"/>
-  <updated>2023-03-20T14:20:50.652Z</updated>
+  <updated>2023-03-21T12:20:29.150Z</updated>
   <id>http://shallowdream.site/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://shallowdream.site/2023/03/20/%E5%A4%87%E6%88%98%E8%80%83%E7%A0%94%E6%AF%8F%E6%97%A5%E8%AE%B0%E5%BD%95/"/>
     <id>http://shallowdream.site/2023/03/20/%E5%A4%87%E6%88%98%E8%80%83%E7%A0%94%E6%AF%8F%E6%97%A5%E8%AE%B0%E5%BD%95/</id>
     <published>2023-03-20T02:32:39.000Z</published>
-    <updated>2023-03-20T14:20:50.652Z</updated>
+    <updated>2023-03-21T12:20:29.150Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="3月">3月</h2><h3 id="3月20日">3月20日</h3><p>今天上课，然后写了一点算法题。<br>英语背了350个单词，数学看了一些，没看多少，有点摸鱼。<br>离考研还有277天</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="3月">3月</h2><h3 id="3月20日">3月20日</h3><p>今天上课，然后写了一点算法题。<br>英语背了350个单词，数学看了一些，没看多少，有点摸鱼。<br>离考研还有277天</p><h3 id="3月21日">3月21日</h3><p>今天比较摸鱼，然后早上在写省赛的题目，看了会电视，背了300个单词。<br>晚上打算看武忠祥的课，看第二章。<br>自动化南理工复试线今天出了，加油。<br>离考研还有276天</p>]]></content>
     
     
     <summary type="html">记录每日做的事情</summary>
@@ -139,9 +139,9 @@
     
     <category term="Java" scheme="http://shallowdream.site/tags/Java/"/>
     
-    <category term="大学作业" scheme="http://shallowdream.site/tags/%E5%A4%A7%E5%AD%A6%E4%BD%9C%E4%B8%9A/"/>
-    
     <category term="数据结构" scheme="http://shallowdream.site/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+    <category term="大学作业" scheme="http://shallowdream.site/tags/%E5%A4%A7%E5%AD%A6%E4%BD%9C%E4%B8%9A/"/>
     
   </entry>
   
@@ -283,9 +283,9 @@
     <category term="数据结构" scheme="http://shallowdream.site/categories/%E5%A4%A7%E5%AD%A6%E4%BD%9C%E4%B8%9A/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
     
     
-    <category term="数据结构" scheme="http://shallowdream.site/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
-    
     <category term="C" scheme="http://shallowdream.site/tags/C/"/>
+    
+    <category term="数据结构" scheme="http://shallowdream.site/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
     
     <category term="课程设计" scheme="http://shallowdream.site/tags/%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1/"/>
     
