@@ -193,9 +193,9 @@
     
     <category term="Java" scheme="http://1804040636.github.io/tags/Java/"/>
     
-    <category term="大学作业" scheme="http://1804040636.github.io/tags/%E5%A4%A7%E5%AD%A6%E4%BD%9C%E4%B8%9A/"/>
-    
     <category term="数据结构" scheme="http://1804040636.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+    <category term="大学作业" scheme="http://1804040636.github.io/tags/%E5%A4%A7%E5%AD%A6%E4%BD%9C%E4%B8%9A/"/>
     
   </entry>
   
@@ -337,9 +337,9 @@
     <category term="数据结构" scheme="http://1804040636.github.io/categories/%E5%A4%A7%E5%AD%A6%E4%BD%9C%E4%B8%9A/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
     
     
-    <category term="数据结构" scheme="http://1804040636.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
-    
     <category term="C" scheme="http://1804040636.github.io/tags/C/"/>
+    
+    <category term="数据结构" scheme="http://1804040636.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
     
     <category term="课程设计" scheme="http://1804040636.github.io/tags/%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1/"/>
     
